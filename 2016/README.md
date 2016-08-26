@@ -29,7 +29,7 @@ February 12 – February 14
 Downtown Athletic Club
 999 Willamette St, Eugene, Oregon 97401
 
-#why it was cool?
+###why it was cool?
 
 ==
 
@@ -43,5 +43,5 @@ JANUARY 13 - 15 I 2016
 ###where?
 University of Oregon
 
-#why it was cool?
+###why it was cool?
 https://www.youtube.com/watch?v=oOdKFUmzljA
