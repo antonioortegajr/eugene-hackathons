@@ -4,7 +4,7 @@
 
 ###http://www.quackcon.com/
 
-####when?
+###when?
 October 14-16, 2016
 
 ###where?
@@ -23,7 +23,7 @@ Participants will be encouraged to build a hack that focuses on
 ###https://www.facebook.com/events/862680570509528/
 
 ###when?
-February 12 – February 14
+February 12 – February 14 2016
 
 ###where?
 Downtown Athletic Club
