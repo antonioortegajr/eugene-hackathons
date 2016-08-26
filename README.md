@@ -1,2 +1,3 @@
-# eugene-hackathons
-Repo of hackathons I know about in the Eugene area
+#Hackathons in Eugene
+
+This is a collection of Hackathons in Eugene that I know about.
