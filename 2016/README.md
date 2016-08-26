@@ -16,6 +16,7 @@ Participants will be encouraged to build a hack that focuses on
 1) athletic enhancement
 2) fan/audience engagement
 
+==
 
 ##Hack for a Cause
 
@@ -30,6 +31,7 @@ Downtown Athletic Club
 
 #why it was cool?
 
+==
 
 ##QUACKHACK
 
