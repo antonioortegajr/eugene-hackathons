@@ -31,6 +31,8 @@ Downtown Athletic Club
 
 ##QUACKHACK
 
+##http://www.quackhack.io/
+
 ###when?
 JANUARY 13 - 15 I 2016
 
