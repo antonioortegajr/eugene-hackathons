@@ -28,6 +28,8 @@ February 12 – February 14
 Downtown Athletic Club
 999 Willamette St, Eugene, Oregon 97401
 
+#why it was cool?
+
 
 ##QUACKHACK
 
