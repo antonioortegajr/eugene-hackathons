@@ -2,6 +2,8 @@
 
 ##QUACKHACK II: THE GAMING HACKATHON
 
+###http://www.quackhack.io/
+
 ###when?
 JANUARY 13 - 15 I 2017
 

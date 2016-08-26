@@ -2,7 +2,7 @@
 
 ##QuackCon
 
-##http://www.quackcon.com/
+###http://www.quackcon.com/
 
 ####when?
 October 14-16, 2016
@@ -20,7 +20,7 @@ Participants will be encouraged to build a hack that focuses on
 
 ##Hack for a Cause
 
-##https://www.facebook.com/events/862680570509528/
+###https://www.facebook.com/events/862680570509528/
 
 ###when?
 February 12 – February 14
@@ -35,7 +35,7 @@ Downtown Athletic Club
 
 ##QUACKHACK
 
-##http://www.quackhack.io/
+###http://www.quackhack.io/
 
 ###when?
 JANUARY 13 - 15 I 2016
