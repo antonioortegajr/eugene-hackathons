@@ -10,6 +10,7 @@ October 14-16, 2016
 ###where?
 Eugene, Oregon (on the campus of The University of Oregon--Go Ducks!)
 
+###why?
 The first collegiate Sports/Tech hackathon in the United States
 
 Participants will be encouraged to build a hack that focuses on
@@ -29,7 +30,11 @@ February 12 – February 14 2016
 Downtown Athletic Club
 999 Willamette St, Eugene, Oregon 97401
 
-###why it was cool?
+###who? #who? Open to public.
+
+###why
+Participants are given challenges based on the needs of local organizations.
+
 
 ==
 
@@ -43,5 +48,8 @@ JANUARY 13 - 15 I 2016
 ###where?
 University of Oregon
 
-###why it was cool?
+###who? Students can compete. Tech industry professionals can mentor.
+
+###why
+Participants create games because games.
 https://www.youtube.com/watch?v=oOdKFUmzljA
