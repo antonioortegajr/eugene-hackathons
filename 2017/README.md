@@ -17,7 +17,7 @@ University of Oregon
 ##Hack for a Cause
 
 ###when?
-TBD
+APRIL 1-2nd (maybe?)
 
 ###where?
 TBD
