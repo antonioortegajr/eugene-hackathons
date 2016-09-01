@@ -10,7 +10,7 @@ JANUARY 13 - 15 I 2017
 ###where?
 University of Oregon
 
-#who? Students can compete. Tech industry professionals can mentor.
+####who? Students can compete. Tech industry professionals can mentor.
 
 ==
 
@@ -22,7 +22,7 @@ APRIL 1-2nd (maybe?)
 ###where?
 TBD
 
-##who? #who? Open to public.
+###who? Open to public.
 
 ###why
 Participants are given challenges based on the needs of local organizations.
