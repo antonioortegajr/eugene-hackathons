@@ -30,7 +30,8 @@ February 12 – February 14 2016
 Downtown Athletic Club
 999 Willamette St, Eugene, Oregon 97401
 
-###who? #who? Open to public.
+###who?
+Open to public.
 
 ###why
 Participants are given challenges based on the needs of local organizations.
@@ -48,7 +49,8 @@ JANUARY 13 - 15 I 2016
 ###where?
 University of Oregon
 
-###who? Students can compete. Tech industry professionals can mentor.
+###who?
+Students can compete. Tech industry professionals can mentor.
 
 ###why
 Participants create games because games.
