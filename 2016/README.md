@@ -5,7 +5,7 @@
 ###http://www.quackcon.com/
 
 ###when?
-October 14-16, 2016
+October 14-16 2016
 
 ###where?
 Eugene, Oregon (on the campus of The University of Oregon--Go Ducks!)
@@ -44,7 +44,7 @@ Participants are given challenges based on the needs of local organizations.
 ###http://www.quackhack.io/
 
 ###when?
-JANUARY 13 - 15 I 2016
+JANUARY 13 - 15 2016
 
 ###where?
 University of Oregon
