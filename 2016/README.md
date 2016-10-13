@@ -5,7 +5,7 @@
 ###http://www.quackcon.com/
 
 ###when?
-October 14-16 2016
+October 14-16 2016 Schedule: http://www.quackcon.com/blog/weekend-schedule-of-activities
 
 ###where?
 Eugene, Oregon (on the campus of The University of Oregon--Go Ducks!)
@@ -24,7 +24,7 @@ Participants will be encouraged to build a hack that focuses on
 ###https://www.facebook.com/events/862680570509528/
 
 ###when?
-February 12 – February 14 2016 http://www.quackcon.com/blog/weekend-schedule-of-activities
+February 12 – February 14 2016
 
 ###where?
 Downtown Athletic Club
