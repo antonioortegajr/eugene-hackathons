@@ -17,6 +17,8 @@ Participants will be encouraged to build a hack that focuses on
 1) athletic enhancement
 2) fan/audience engagement
 
+###Results: http://quackcon.devpost.com/submissions?page=1
+
 ==
 
 ##Hack for a Cause
