@@ -18,10 +18,10 @@ Students can compete. Tech industry professionals can mentor.
 ##Hack for a Cause
 
 ###when?
-APRIL 1-2nd (maybe?)
+APRIL 1-2nd
 
 ###where?
-TBD
+Downtown Athletic Club
 
 ###who?
 Open to public.
