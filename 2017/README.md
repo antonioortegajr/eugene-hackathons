@@ -1,17 +1,17 @@
 #2017
 
-##QUACKHACK II: THE GAMING HACKATHON
+~~##QUACKHACK II: THE GAMING HACKATHON~~ Cancelled
 
 ###http://www.quackhack.io/
 
 ###when?
-JANUARY 13 - 15 I 2017
+~~JANUARY 13 - 15 I 2017~~
 
 ###where?
-University of Oregon
+~~University of Oregon~~
 
 ####who?
-Students can compete. Tech industry professionals can mentor.
+~~Students can compete. Tech industry professionals can mentor.~~
 
 ==
 
